@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.Tapped{
+  text-decoration: line-through;
+}
+
+.green{
+  color: green;
+}
+.blue{
+  color: blue;
+}
+.red{
+  color: red;
+}
